@@ -1,0 +1,20 @@
+{
+  "name": "aula_05-projeto_part01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "seed": "node ./seed/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "faker": "^6.6.6"
+  }
+}
