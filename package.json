@@ -6,8 +6,9 @@
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "seed": "node ./seed/index.js"
+    "seed": "node ./seed/index.js",
+    "test": "npx mocha -w --timeout 2000 **/**/*.test.js",
+    "test:cov": "npx nyc mocha **/**/*.test.js"
   },
   "keywords": [],
   "author": "",
@@ -15,6 +16,10 @@
   "description": "",
   "devDependencies": {
     "@faker-js/faker": "^8.4.1",
-    "faker": "^6.6.6"
+    "chai": "^4.4.1",
+    "faker": "^6.6.6",
+    "mocha": "^8.4.0",
+    "nyc": "^15.1.0",
+    "sinon": "^9.2.4"
   }
 }

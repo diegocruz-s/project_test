@@ -1,12 +1,12 @@
 [
   {
-    "id": "e0dd9f8bad2f9af8ddf250cb",
-    "name": "Coupe",
+    "id": "dab7d1effafcd94ada16dff6",
+    "name": "Wagon",
     "carIds": [
-      "a0edd7952f0cdfddbe59beac",
-      "0e24406c4646abbb7db4ec4d",
-      "90bbacc7befaa9efd29f3f55"
+      "c38163ccfba5e6cd2d5ff282",
+      "0ff8fbda3d78bf3d30afefd4",
+      "9bd31db8433eea1d2e92e3cb"
     ],
-    "price": 70.23
+    "price": 79.31
   }
 ]

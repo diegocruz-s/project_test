@@ -1,22 +1,22 @@
 [
   {
-    "id": "a0edd7952f0cdfddbe59beac",
-    "name": "Element",
-    "releaseYear": 2023,
-    "available": true,
-    "gasAvailable": true
-  },
-  {
-    "id": "0e24406c4646abbb7db4ec4d",
-    "name": "Grand Caravan",
-    "releaseYear": 2023,
-    "available": true,
-    "gasAvailable": true
-  },
-  {
-    "id": "90bbacc7befaa9efd29f3f55",
+    "id": "c38163ccfba5e6cd2d5ff282",
     "name": "Colorado",
     "releaseYear": 2024,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "0ff8fbda3d78bf3d30afefd4",
+    "name": "Charger",
+    "releaseYear": 2024,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "9bd31db8433eea1d2e92e3cb",
+    "name": "Mercielago",
+    "releaseYear": 2023,
     "available": true,
     "gasAvailable": true
   }
